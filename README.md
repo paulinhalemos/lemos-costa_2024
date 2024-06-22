@@ -1,4 +1,4 @@
-# Code and data accompanying Lemos-Costa et al. 2024
+# Data and code accompanying "Phylogeny structures species' interactions in experimental ecological communities" by Lemos-Costa, Miller and Allesina 2024
 
 All scripts use relative paths and assume the working directory is the one where the code is located.
 
